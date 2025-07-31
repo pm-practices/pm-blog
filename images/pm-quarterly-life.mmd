@@ -1,0 +1,78 @@
+block-beta
+columns 7
+block:DailyLife:1
+    columns 1
+    PMDL["PM Daily Activities"]
+    Research
+    Customers
+    Competition
+    Roadmaps
+    Vision
+    Strategy
+end
+
+block:1Pager
+    columns 1
+    RfP["review for priority"]
+    space
+    1P("1-pager")
+    space
+    RfP-->1P
+end
+block:featurenarrative
+    columns 1
+    space
+    FN("Feature Narrative")
+    J["Justification\n- Why now?\n- Why us?"]
+end
+block:productrequiements
+    columns 1
+    space
+    PRD
+    WF["Includes workflows\n- Current\n- Proposed"]
+end
+block:review
+    columns 1
+    RA["Review & Approval"]
+    space:2
+    CheckPoint(("&nbsp;"))
+    space:3
+    RA-->CheckPoint
+end
+block:epics
+    columns 1
+    epic1
+    epic2
+    epic3
+end
+block:stories
+    columns 1
+    story1
+    story2
+    story3
+    space
+    storyN
+    story3 -- "..." --> storyN
+end
+
+DailyLife --> 1P
+1P --> FN
+FN --> PRD
+PRD --> CheckPoint
+CheckPoint --> epics
+epics --> stories
+
+classDef annotation fill:transparent,stroke-width:0px
+style PMDL fill:transparent,stroke-width:1px
+class Research annotation
+class Customers annotation
+class Competition annotation
+class Roadmaps annotation
+class Vision annotation
+class Strategy annotation
+class WF annotation
+class J annotation
+
+classDef callouts fill:#F5E727;
+class RfP callouts
+class RA callouts
