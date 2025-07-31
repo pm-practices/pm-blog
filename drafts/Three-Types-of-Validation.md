@@ -1,7 +1,7 @@
 # Three Types of Validation
 Behold this lovely diagram, which I have been drawing on white boards for years:
 
-![Diagram of 3 pipelines](../images/3-cycles-of-validation.svg)
+![Diagram of 3 pipelines][three-cycles-diagram]
 
 This encapsulates three different kinds of validation which Product Managers are primarily responsible for. Let's break these down.
 1. Daily validation: is what we're building the right thing to build? Are we confident that when we ship, that the intended customers will be happy? In many ways, this is the most essential form of validation, because engineers need feedback as quickly as possible, before the context fades. If you look at something the day of, "oh gosh, this will never work for Home Warehouse and others like them, that type of customer would definitely prefer it this way," then you may get some grumbling, but it can be done. However! If you wait to do this style of validation till after the release has shipped, you're going to get a whole different kind of response from the engineering team.
@@ -31,4 +31,4 @@ I've had the fortune to be on both sides of the negotiation - as technology prod
 ---
 Story time (feel free to skip)
 
-[image-1]:	https://raw.githubusercontent.com/pm-practices/pm-blog/main/images/3-cycles-of-validation.png
+[three-cycles-diagram]:	https://raw.githubusercontent.com/pm-practices/pm-blog/main/images/three-cycles-diagram.svg
