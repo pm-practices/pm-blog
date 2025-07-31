@@ -1,7 +1,7 @@
 # Three Types of Validation
-Behold this lovely diagram, which I have been drawing on white boards for years.
+Behold this lovely diagram, which I have been drawing on white boards for years:
 
-![][image-1]
+![Diagram of 3 pipelines](../images/3-cycles-of-validation.svg)
 
 This encapsulates three different kinds of validation which Product Managers are primarily responsible for. Let's break these down.
 1. Daily validation: is what we're building the right thing to build? Are we confident that when we ship, that the intended customers will be happy? In many ways, this is the most essential form of validation, because engineers need feedback as quickly as possible, before the context fades. If you look at something the day of, "oh gosh, this will never work for Home Warehouse and others like them, that type of customer would definitely prefer it this way," then you may get some grumbling, but it can be done. However! If you wait to do this style of validation till after the release has shipped, you're going to get a whole different kind of response from the engineering team.
@@ -10,6 +10,25 @@ This encapsulates three different kinds of validation which Product Managers are
 
 **All three** of these activities is essential for the product manager to know if the product offered is likely to succeed, and what's most important for the product development team to do next. Doing this work is a full time job! It takes a tremendous amount of time to make the connections, arrange meetings, share, and record feedback from the people we are targeting.
 
-When people in different functions (sales, marketing, engineering) ask PMs to do a wide variety of tasks, "fill out this compliance survey," "write this blog article," "have dinner with a potential customer," those activities take time from the core responsibilities of a product manager. Many times in my life, I've used this diagram to point out how 
+When people in different functions (sales, marketing, engineering) ask PMs to do a wide variety of tasks, "fill out this compliance survey," "write this blog article," "have dinner with a potential customer," those activities take time from the core responsibilities of a product manager. Many times in my life, I've used this diagram to point out what my core activities should be; and don't we all agree that we want someone doing these things?
+
+What are the risks of not performing these activities?
+
+**Daily Validation**
+A lot of people don't like doing daily validation, but the people who love it most are the product development team. Engineers and associated functions want to know that they're building something people will actually use. When a PM does this sort of validation, they get feedback from at least one person that the work has merit. If the PM further gets feedback from external, potential users, the product team's confidence shoots up dramatically. They may even take pride in their work, adding that extra bit of polish, or making the documentation more user-friendly, because they know who is waiting for it on the other side.
+
+If the Product Manager doesn't use the product every day, then what are they talking about when they talk with customers? I have a term, "Product Manager snake-oil," which turns out pretty consistently. Any time I'm talking with customers about using the product in some way that I haven't personally tried myself, I'm probably lying. This doesn't mean that I have to test every extreme use case. I don't have to have backed up 500TB across complicated networking paths. But if I haven't backed up 5GB, or even 5MB, can I sure that it really works?
+
+That's why daily validation focuses on the tasks the customer must perform in order to achieve an outcome. Until we've done it ourselves (not in a development environment) how can we be sure that when we ship, it'll work for other customers? And that they'll have a chance to be successful? Many people from the Agile and XP community will tell you that one of the most important things is a tight feedback loop. Daily validation get feedback to the people who need it most while the context is still in their head. If you come back after the release, "the work you did isn't checking the box," you'll end up in a cycle of recrimination. Did the product team do bad work? Or did they do what they were told, and should have been given better instructions? Quick feedback reduces the blame, "hey, maybe this is a fault in my communication, but can you look at this error message with me? because I think it's totally confusing," is a lot better than, "customers hate the new feature because they say the errors are indecipherable, and it took them forever to get through activation."
+
+Doing Daily Validation, and incorporating it into your customer conversations, ensures that you've gotten real-users' eyes on the problem, and even if it's not universally successful, it'll work for this release. It doesn't need to be statistically significant, this is just a validation step. The way I'd work it in, I'd add a, "one more thing," to my interview scripts. After we've gotten done talking about whatever goals the customer has for future releases, like a magician who has gained an audience's trust, I've asked, "Say, this conversation has been going really well, and we still have a bit of time left. I'd like to shift gears, if that's OK - can we go over a feature that's in progress right now? I just want to get your opinion on it, while the engineers have this laid out on the shop floor. I can't guarantee that this is what it's going to look like when we're done, but _your opinion is so important to me_ I'd like to incorporate any feedback you have before we ship," Practically nobody has ever turned me down.
+
+**Roadmap Planning**
+Probably most product managers spend a significant amount of their time presenting roadmap reviews. They're often requested by other functions, especially (but not always) sales and business development. Sometimes they're a chore. Often it's a useless activity. If the PM takes it as a two-way information exchange, however, then the activity becomes a valuable form of validation! You can get promoted doing good roadmap reviews!
+
+I've had the fortune to be on both sides of the negotiation - as technology producer and as technology consumer. Based on this background, I do roadmap reviews a little differently.
+
+---
+Story time (feel free to skip)
 
 [image-1]:	https://raw.githubusercontent.com/pm-practices/pm-blog/main/images/3-cycles-of-validation.png
