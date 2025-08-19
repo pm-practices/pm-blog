@@ -8,13 +8,14 @@ tl;dr:
 **Before you start**
 1. Before you start, learn the world’s impressions of your product. Buy a book, if possible.
 
-**First week**
+**First two weeks**
 1. Be humble. Tell everyone you plan to focus on the backlog and the roadmap to get started.
 2. Introduce yourself to everyone, every business function. Start to build your own views on how the organization works.
 3. Try to identify your primary team, demand to see their backlog and to join their planning meetings.
 4. Ask to be included in every existing and potential customer / user meeting. Introduce yourself and your intent to listen only. Make no commitments.
 
 **First three months**
+1. Try to use your product.
 1. Articulate your own understanding of the **existing** roadmap, in writing. Review with your product team peers (engineering lead, design lead, your boss, etc.) and ask for feedback.
 1. Identify your potential allies, both within  your company as well as users, analysts, OSS users or even bloggers.
 1. Start to arrange your own, informal roadmap review meetings.
@@ -29,16 +30,21 @@ tl;dr:
 ## Before you start
 Learn the external view of the product. Buy a book if possible. Actually read it. Otherwise voraciously read blogs, especially the comment section.
 
-## First week
+## First two weeks
 Be humble. Even if you’re a subject matter expert, share that knowledge very sparingly.
 
-There will be a tsunami of demands on your time. Try to stay focused on this plan. Different people will appear, try to identify their requests as a good investment, or activities which will distract you from your goals. You can’t dodge everything, but try to minimize the waste. It’s totally fine to explain your plan (this plan, or some version of it), as justification why you can’t do whatever people are asking.
+Make becoming part of your team your first priority. In every case where I've procrastinated meeting my assigned product development team, I've regretted it. If your team knows you're identified for them, but you appear too busy to become embedded, they'll dismiss you early.
 
-Minimize your decisions, rely on your existing product team leads. Typically, there’ll be a stack of work waiting for you; that’s why the team decided to hire a product manager. Try not to be overwhelmed. If a decision truly is urgent, consult with the existing leaders, and unless you truly know in your heart of hearts that this is a huge mistake, adopt their suggestions as your own decision. This may feel scary, as you might be worried that you’re displaying weakness or incompetence - but I think it’s the reverse. It establishes trust quickly and also shows that you’re a leader who is willing to make decisions with incomplete data.
+Try to use your product. I have a saying, "any product manager who suggests a course of action to a customer that they haven't tried themselves is probably lying."
 
-If you choose to make the preponderance of decisions using your own experience as a guide, you will risk failing to build that trust, especially if your lack of context leads you to make poor decisions that have be wound back later. Better to establish yourself as a team member who makes decisions together. That way, if your decisions turn out to be off-track (and some inevitably will), you can come back to your team, “We made this decision together. Now that I’ve been here for a while, I think it wasn’t quite right. Given this evidence, I think we should adjust in this way. What do you think about changing course?” #Teamwork
+Typically, there’ll be a stack of work waiting for you; that’s why the team decided to hire a product manager. People will want to meet you because they have been waiting for someone to make decisions. Others will have been waiting on things that a product manager would deliver, like a roadmap. Try not to be overwhelmed. Stay focused on this plan. Try to resist making commitments or snap judgements.  You can’t dodge everything, but minimize waste. It’s fine to explain your plan (this plan, or some version of it), as justification of why you can’t do everything right away!
 
-If you refuse to make any decisions, allowing the team to blunder on as they have been, you’re delaying making an impact. People will be super anxious to see you establish yourself. Delaying that will cause them to doubt you, and those first impressions can linger a long time. By establishing yourself as a team player first, you’ll buy yourself time to learn context and make course-corrections down the line.
+To minimize early decisions, you might rely on your existing product team leads. If it's truly urgent, consult with the existing leaders. Unless you truly know that this is a huge mistake, adopt their suggestions as the team's decision. This may feel scary, you might be worried that you’re displaying weakness or incompetence - but I think it’s the reverse. It establishes trust quickly and also shows that you’re a leader who is willing to make decisions with incomplete data.
+
+If you choose to make the preponderance of decisions using your own experience as a guide, you will risk failing to build that trust, especially if your lack of context leads you to make poor decisions that have be wound back later. Better to establish yourself as a team member who makes decisions together. That way, if your choices turn out to be off-track, some inevitably will, you can come back to your team, “We made this decision together. Now that I’ve been here for a while, I think it wasn’t quite right. Given this evidence, I think we should adjust in this way. What do you think about changing course?” #Teamwork
+
+Conversely, if you refuse to make any decisions, allowing the team to blunder on as they have been, you’re delaying making an impact. People will be super anxious to see you establish yourself. Delaying that will cause them to doubt you, and those first impressions can linger a long time. By establishing yourself as a team player first, you’ll buy yourself time to learn context and make course-corrections down the line.
+
 
 ## First three months
 Articulate your own understanding of the roadmap. It’s very important to do this in writing, either a text document or a slide deck, perhaps. Review this with your product team peers, what did you get wrong, what are you under-emphasizing?
