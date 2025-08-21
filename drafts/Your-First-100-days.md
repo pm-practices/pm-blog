@@ -15,7 +15,7 @@ tl;dr:
 4. Ask to be included in every existing and potential customer / user meeting. Introduce yourself and your intent to listen only. Make no commitments.
 
 **First three months**
-1. Try to use your product.
+1. Try to use your product. Start an outrage log.
 1. Articulate your own understanding of the **existing** roadmap, in writing. Review with your product team peers (engineering lead, design lead, your boss, etc.) and ask for feedback.
 1. Identify your potential allies, both within  your company as well as users, analysts, OSS users or even bloggers.
 1. Start to arrange your own, informal roadmap review meetings.
@@ -35,7 +35,7 @@ Be humble. Even if you’re a subject matter expert, share that knowledge very s
 
 Make becoming part of your team your first priority. In every case where I've procrastinated meeting my assigned product development team, I've regretted it. If your team knows you're identified for them, but you appear too busy to become embedded, they'll dismiss you early.
 
-Try to use your product. I have a saying, "any product manager who suggests a course of action to a customer that they haven't tried themselves is probably lying."
+Try to use your product. I have a saying, "any product manager who suggests a course of action to a customer that they haven't tried themselves is probably lying." [TODO: Outrage log.]
 
 Typically, there’ll be a stack of work waiting for you; that’s why the team decided to hire a product manager. People will want to meet you because they have been waiting for someone to make decisions. Others will have been waiting on things that a product manager would deliver, like a roadmap. Try not to be overwhelmed. Stay focused on this plan. Try to resist making commitments or snap judgements.  You can’t dodge everything, but minimize waste. It’s fine to explain your plan (this plan, or some version of it), as justification of why you can’t do everything right away!
 
