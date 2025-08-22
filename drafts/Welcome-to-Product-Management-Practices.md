@@ -1,12 +1,16 @@
-Hello, and very grateful that you’ve discovered this blog. Read this article first to understand the goals of these posts.
+Hello, happy that you've stumbled onto this blog. Read this article first to understand the goals of these posts.
 
-The scope of these posts are to cover the experiences and values I’ve learned over 10 years in product management. My goal is to generalize what I’ve learned so that it can benefit others. While most of my experience involves enterprise software, it doesn’t mean that these values can’t be applied elsewhere. I’ve used similar techniques in e-Commerce, consumer products, open source and even when producing silicon chips.
+In my career, I've come across many people with the title, "product manager," that don't have a clear idea of what the basic job responsibilities are, nor do they know which activities will make them the most successful.
 
-When I decided to become a Product Manager, I was lucky to join Pivotal Software. If you want to know exactly how I did my job, and what I feel are the essential skills of a PM, read the first 13 chapters of [Planning Extreme Programming][1]. Although that's 70 pages, it's a quick read.
+During my first five years as a PM, I worked in on databases. I began to believe that I was typecast, that I was building a subject matter expertise as my personal ‘moat,’ which would guide my career until retirement. That didn't happen. I found myself as a product manager in an area where databases are not relevant. I was pleased to learn that many of the skills and practices that I’d learned translated from one domain to another pretty easily. If I hadn’t lost everything, and started over from scratch, I may never have realized this.
 
-During my first five years as a PM, I worked in one product area, databases. I began to believe that I was typecast, that I was building a subject matter expertise as my personal ‘moat,’ which would guide my career until retirement. That did not come to pass, and I found myself working Product Management in an area where databases are not relevant. I was pleased to learn that many of the skills and practices that I’d learned at Pivotal translated from one domain to another pretty easily. If I hadn’t lost everything, and started over from scratch, I may never have realized this.
+This blog is intended to cover the fundamental, universal skills I’ve learned in 10 years in product management. My goal is to generalize what I’ve learned so that it can benefit others. While most of my experience revolves around enterprise software, it doesn’t mean that these practices can’t be applied elsewhere. I’ve used similar techniques in e-commerce, consumer products, open source and even while producing silicon chips.
 
-If the techniques I learned at Pivotal were sufficient, I would never have need to write this blog. There is an amazing amount of material produced by Pivotal and its alumni, and I will link (example, [Labs Practices][2]) as often as possible. Beyond Labs, I’ve had opportunities to product manage in several non-Pivot environments. I’ve learned valuable lessons there, too.
+I haven't earned these insights alone. I've benefited from a variety of resources during my product management career. This blog uses other PM frameworks as inspiration, and evolves from those starting points. If you want a quick start, and a well-informed framework against which to organize your work, run, don't walk to a [Pragmatic Institute][1] seminar. If you want to know exactly how I did my job at Pivotal Software, read the first 13 chapters of [Planning Extreme Programming][2]. Although that's 70 pages, it's a quick read.  There is an amazing amount of material produced by Pivotal and its alumni at [Labs Practices][3]). I learned about [writing practices][4] during my time at Hashicorp, and on and on. I hope to link to as many additional resources as much as possible.
+
+TODO:
+I've also benefited from having many fabulous partners; the best of whom continually challenged our team to do better. Through working with them, we've identified additional practices which are tremendously useful.
+If the techniques I learned at Pivotal were sufficient, I would never have need to write this blog. , and I will link  as often as possible. Beyond Labs, I’ve had opportunities to product manage in several non-Pivot environments. I’ve learned valuable lessons there, too.
 
 The name of this blog is, “Product Management Practices,” not, “New Ideas in Product Management,” or, “The Cutting Edge of Product Management,” etc. because I wanted to document the core activities and work product of a product manager that (to me) seem to be applicable across many industries and many types of products.
 
@@ -14,9 +18,11 @@ I hope that I am right, that while most of my PM career has involved selling sof
 
 I wanted to produce an corpus of these practices to blend my Pivotal experience with what I’ve learned since, both as a shortcut for me, as I meet new people and describe the same topics repeatedly, but also as a vehicle for conversation. At Pivotal we tired to adhere to the concept of, “strong opinions, loosely held,” and I hope that by presenting my current point of view, new ideas will emerge, and I can continue to learn and expand.
 
-If you’d like to get involved, I’d welcome your thoughts. Please see the drafts and [contributing instructions][3] on this site’s [GitHub repo][4]. Thanks for reading, hope this helps!
+If you’d like to get involved, I’d welcome your thoughts. Please see the drafts and [contributing instructions][5] on this site’s [GitHub repo][6]. Thanks for reading, hope this helps!
 
-[1]:  https://martinfowler.com/books/pxp.html "Planning Extreme Programming"
-[2]:	https://labspractices.com "Labs Practices"
-[3]:	https://github.com/pm-practices/pm-blog?tab=readme-ov-file#contributing "pm-blog contributing instructions"
-[4]:	https://github.com/pm-practices/pm-blog "pm-blog repo"
+[1]:	https://www.pragmaticinstitute.com
+[2]:	https://martinfowler.com/books/pxp.html "Planning Extreme Programming"
+[3]:	https://labspractices.com "Labs Practices"
+[4]:	https://www.hashicorp.com/en/how-hashicorp-works/articles/writing-practices-and-culture
+[5]:	https://github.com/pm-practices/pm-blog?tab=readme-ov-file#contributing "pm-blog contributing instructions"
+[6]:	https://github.com/pm-practices/pm-blog "pm-blog repo"
