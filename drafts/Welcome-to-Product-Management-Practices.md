@@ -1,4 +1,10 @@
-Hello, happy that you've stumbled onto this blog. Read this article first to understand the goals of these posts.
+<center>
+
+![Onsi F's rendering of the overloaded PM][overloaded-pm-image]
+
+</center>
+
+Welcome to my Product Management Practices blog! Read this article first to understand the goals of these posts.
 
 In my career, I've come across many people with the title, "product manager," that don't have a clear idea of what the basic job responsibilities are, nor do they know which activities will make them the most successful.
 
@@ -35,6 +41,7 @@ I would love if this blog had multiple voices, not just my own! If you’d like 
 
 Thanks for reading!
 
+[overloaded-pm-image]:  https://raw.githubusercontent.com/pm-practices/pm-blog/main/images/overloaded-PM.png
 [1]:    https://medium.com/product-labs/principles-to-effective-story-writing-the-pivotal-labs-way-76da56031f82
 [2]:	https://martinfowler.com/books/pxp.html "Planning Extreme Programming"
 [3]:	https://www.pragmaticinstitute.com
