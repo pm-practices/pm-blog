@@ -24,7 +24,9 @@ If you have:
 Other resources:
 - There is an amazing amount of material produced by Pivotal and its alumni at [Labs Practices][5] and the [Alumni Codex][6], respectively.
 - I learned about [writing practices][7], and became a True Believer in Product Requirements Documents during my time at Hashicorp.
-- [Farther, faster, and Far Less Drama][8] is a leadership guide that focuses on making decisions as a team. If you want to be a better leader, and a better team player, I can't think of a better book.
+- [Farther, faster, and Far Less Drama][8], by Janice and Jason Fraser is a leadership guide that focuses on making decisions as a team. If you want to be a better leader, and a better team player, I can't think of a better book.
+- If you want to benefit from lessons in startups, check out [The Hard Thing About Hard Things][hard-things], by Ben Horowitz (of Andreesen-Horowitz). It's full of valuable founder insights about building successful organizations. I especially appreciate the peacetime/wartime CEO article and the advice about reconsidering your sales team.
+- If you have a child, or relative who is not in technology, buy a copy of [What do Product Managers Do?][pm-kids-book], by Tami Reiss. It explains, in a way that's approachable by anyone, what the job of a Product Manager is.
 
 **Conventions**
 
@@ -42,6 +44,8 @@ I would love if this blog had multiple voices, not just my own! If you’d like 
 Thanks for reading!
 
 [overloaded-pm-image]:  https://raw.githubusercontent.com/pm-practices/pm-blog/main/images/overloaded-PM.png
+[hard-things]:  https://a16z.com/books/the-hard-thing-about-hard-things/
+[pm-kids-book]: https://mascotbooks.com/product/what-do-product-managers-do-a-primer-for-aspiring-pms-of-all-ages/
 [1]:    https://medium.com/product-labs/principles-to-effective-story-writing-the-pivotal-labs-way-76da56031f82
 [2]:	https://martinfowler.com/books/pxp.html "Planning Extreme Programming"
 [3]:	https://www.pragmaticinstitute.com
