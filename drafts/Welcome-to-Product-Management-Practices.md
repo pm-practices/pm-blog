@@ -6,27 +6,52 @@
 
 Welcome to my Product Management Practices blog! Read this article first to understand the goals of these posts.
 
-In my career, I've come across many people with the title, "product manager," that don't have a clear idea of what the basic job responsibilities are, nor do they know which activities will make them the most successful.
+In my career, I've come across many people with the title, "product manager," that don't have a clear idea of what the basic job responsibilities are, nor activities will make them the most successful.
 
-During my first five years as a Product Manager at Pivotal Software, I worked in on databases. I began to believe that I was typecast, that I was building a subject matter expertise as my personal ‘moat,’ which would guide my career until retirement. That didn't happen. I found myself as a product manager in an area where databases are not relevant. I was pleased to learn that many of the skills I’d learned translate from one domain to another pretty easily. If I hadn’t lost everything I may never have realized this.
+During my first five years as a Product Manager at Pivotal Software, I worked on databases. I began to believe that I was typecast, that I was building a subject matter expertise as my personal ‘moat,’ which would guide my career until retirement. That didn't happen. I found myself as a product manager in an area where databases are not relevant. I was pleased to learn that many of the skills I’d learned translate from one domain to another pretty easily. If I hadn’t lost everything I may never have discovered this.
 
-This blog covers the fundamental, universal skills I’ve learned while a part of various teams across 10 years of product management. My goal is to generalize what I’ve learned so that it can benefit others. While most of my experience revolves around enterprise software, it doesn’t mean that these practices can’t be applied elsewhere. I’ve used similar techniques in e-commerce, consumer products, open source and even while producing silicon chips.
+The PM Practices blog covers the fundamental, universal skills I’ve learned while a part of various teams across 10 years of product management. My goal is to generalize what I’ve learned so that it can benefit others. While most of my experience revolves around enterprise software, it doesn’t mean that these practices can’t be applied elsewhere. I’ve used similar techniques in e-commerce, consumer products, open source and even in support of silicon chips.
 
-What I learned from Pivotal was foundational. After Pivotal, I’ve partnered with many fabulous partners from various backgrounds: engineering, sales, design, program management, etc.. The best these continually challenged our team to do better. Through working with them, we've identified activities which are tremendously useful. This blog those experiences as inspiration, and evolves from those starting points.
+What I learned from Pivotal was foundational. Since Pivotal, I’ve partnered with many fabulous partners from various backgrounds: engineering, sales, design, program management, etc. The best continually challenged our team to do better. By working with them, we've identified activities which are tremendously useful. This blog uses those experiences as inspiration, and evolves from those starting points.
 
-The name of this blog is, “Product Management Practices,” not, “New Ideas in Product Management,” or, “The Cutting Edge of Product Management,” etc., because I wanted to document the core activities and work product of a product manager that (to me) seem to be applicable across many industries and many types of products. This is just my take, my own framing of the problem. There are lots of great ways to come up to speed on product management quickly.
+The name of this blog is, “Product Management Practices,” not, “New Ideas in Product Management,” or, “The Cutting Edge of Product Management,” etc., because I wanted to document the core activities and work product of a product manager that (to me) seem to be applicable across many industries and many types of products. This is my own framing of the problem. There are lots of great ways to come up to speed on product management quickly.
 
 If you have:
 - Seven minutes: Quick! Go read [Principles to Effective Story Writing: The Pivotal Labs Way][1]. Ryan Jones is the person who taught me how to write stories properly, and it changed my life. You have my permission to ignore the INVEST model if you want.
-- Several hours: Read the first 13 chapters of [Planning Extreme Programming][2]. Although that's 70 pages, it's a quick read. This describes, in detail, the daily and weekly activities of a frontline product manager.
-- Two or three days: Run, don't walk to a [Pragmatic Institute][3] seminar or a [Productside][4] course. Both of these teach a comprehensive framework so that you can make thoughtful decisions about how to best invest your time.
+- Several hours: Read the first 13 chapters of [Planning Extreme Programming][2]. It's only 70 pages, and a quick read. This describes, in detail, the daily and weekly activities of a frontline product manager.
+- Two or three days: Run, don't walk to a [Pragmatic Institute][3] seminar or a [Productside][4] course. Both of these teach a comprehensive framework so that you can make thoughtful decisions about how to spend your time.
 
 Other resources:
-- There is an amazing amount of material produced by Pivotal and its alumni at [Labs Practices][5] and the [Alumni Codex][6], respectively.
+- There is an amazing amount of material produced by Pivotal and its alumni at [Labs Practices][5] and the [Alumni Codex][6].
 - I learned about [writing practices][7], and became a True Believer in Product Requirements Documents during my time at Hashicorp.
-- [Farther, faster, and Far Less Drama][8], by Janice and Jason Fraser is a leadership guide that focuses on making decisions as a team. If you want to be a better leader, and a better team player, I can't think of a better book.
-- If you want to benefit from lessons in startups, check out [The Hard Thing About Hard Things][hard-things], by Ben Horowitz (of Andreesen-Horowitz). It's full of valuable founder insights about building successful organizations. I especially appreciate the peacetime/wartime CEO article and the advice about reconsidering your sales team.
-- If you have a child, or relative who is not in technology, buy a copy of [What do Product Managers Do?][pm-kids-book], by Tami Reiss. It explains, in a way that's approachable by anyone, what the job of a Product Manager is.
+- [Farther, Faster, and Far Less Drama][8], by Janice and Jason Fraser is a leadership guide that focuses on making decisions as a team. If you want to be a better leader, and a better team player, this is a great book.
+- If you want to benefit from lessons in startups, check out [The Hard Thing About Hard Things][hard-things], by Ben Horowitz of Andreesen-Horowitz. It's full of valuable founder insights about building successful organizations. I especially appreciate the peacetime/wartime CEO article and the advice about reconsidering if you have the right sales team.
+- If you have a child, or relative who is not in technology, buy a copy of [What do Product Managers Do?][pm-kids-book], by Tami Reiss. It explains, in a simple, approachable way, what the job of a product manager is.
+
+## Reading Order
+
+- [Welcome to Product Management Practices][Welcome]
+- [Product Manager in 30 Seconds][pm-in-30]
+
+Here are the most immediately useful posts that you can put into practice today:
+
+- [Three Types of Validation][3-validation]
+- [Three Fundamental Artifacts][3-artifacts]
+- [Roadmaps, Roadmaps, Roadmaps][3-roadmaps]
+
+Career thoughts and advice:
+
+- [Your First 100 Days][100-days]
+- [Product Manager Identity][pm-identity]
+- [Product Identity][product-id]
+- [PM Recognition and Evaluation][pm-recognition]
+
+Coming Soon?
+
+- Project Kickoffs / Blueprints
+- Balanced Leadership Teams
+- PM Snake Oil
+- ... and more!
 
 **Conventions**
 
@@ -43,9 +68,18 @@ I would love if this blog had multiple voices, not just my own! If you’d like 
 
 Thanks for reading!
 
-[overloaded-pm-image]:  https://raw.githubusercontent.com/pm-practices/pm-blog/main/images/overloaded-PM.png
+[overloaded-pm-image]:  /images/overloaded-PM.png "Onsi F's rendering of the overloaded PM"
 [hard-things]:  https://a16z.com/books/the-hard-thing-about-hard-things/
 [pm-kids-book]: https://mascotbooks.com/product/what-do-product-managers-do-a-primer-for-aspiring-pms-of-all-ages/
+[welcome]:  Welcome-to-Product-Management-Practices.md
+[pm-in-30]: Product-Manager-in-30-Seconds.md
+[3-validation]:  Three-Types-of-Validation.md
+[3-artifacts]:  Three-Fundamental-Artifacts.md
+[3-roadmaps]:   Roadmaps-roadmaps-roadmaps.md
+[100-days]: Your-First-100-days.md
+[pm-identity]:  Product-Manager-Identity.md
+[product-id]:   Product-Identity.md
+[pm-recognition]:   PM-Recognition-and-Evaluation.md
 [1]:    https://medium.com/product-labs/principles-to-effective-story-writing-the-pivotal-labs-way-76da56031f82
 [2]:	https://martinfowler.com/books/pxp.html "Planning Extreme Programming"
 [3]:	https://www.pragmaticinstitute.com
