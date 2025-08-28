@@ -3,6 +3,7 @@ In the [Three Types of Validation][1] post, we remind ourselves to focus on thos
 Here are three solid documents PM teams have used to improve communication and demonstrate impact, plus some thoughts on creating stories and epics. This cycle is quarterly, which seems to be a nice balance between giving enough time for the product teams to produce something meaningful, while also getting product to customers fast enough (but not too fast) that they can provide feedback in a way which can impact the roadmap. You may have different cycle times which make better sense for your industry, and that's OK, too.
 
 Let's dive in:
+<a name="quarterly-cycle"></a>
 ![Quarterly Cycle][4]
 In my experience, product managers who follow this process can build credibility. Other business functions will be grateful and align to the predictability of these activities. I’m sure there are other routes to success, but this process has proven solid.
 
