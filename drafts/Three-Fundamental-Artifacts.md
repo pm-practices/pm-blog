@@ -2,7 +2,15 @@ In the [Three Types of Validation][3-validation] post, we remind ourselves to fo
 
 Here are three solid documents PM teams have used to improve communication and demonstrate impact, plus some thoughts on creating stories and epics. This cycle is quarterly, which seems to be a nice balance between giving enough time for the product teams to produce something meaningful, while also getting product to customers fast enough (but not too fast) that they can provide feedback in a way which can impact the roadmap. You may have different cycle times which make better sense for your industry, and that's OK, too.
 
-Let's dive in:
+### Plans, not Promises
+
+Disclaimer: Many will misinterpret "planning," as commitment. Try to avoid that trap. Everything in this article is designed to avoid committing the team to deliver a specific thing on a specific date. In my experience, things always change, and you need to retain that flexibility to meet the market on the date that you ship. If you commit to something months ahead, you must follow through with that promise, regardless if it's the best thing or disastrous on release day.
+
+> I've had customers get in my face and demand delivery dates. I refuse! I tell them that, as a product manager, if I commit to a date today, I'd probably be lying to them. Instead, I've committed to keeping communication frequent and transparent. Turning this around, I tell them that by keeping them involved, they'll have the ability to affect the roadmap. When the feeling is right, I've also invited them to be anchor customers, invoving them in any pre-release programs, to ensure that the solution will work for them day 1. Address the root anxieties about dates (there's some schedule of events that are in motion, or commitments they have made internally) so that they're confident that what we deliver won't make them look foolish.
+
+Don't commit dates unless your boss says you have to.
+
+OK, disclaimer aside, let's dive in:
 <a name="quarterly-cycle"></a>
 ![Quarterly Cycle][quarterly-cycle-img]
 In my experience, product managers who follow this process can build credibility. Other business functions will be grateful and align to the predictability of these activities. I’m sure there are other routes to success, but this process has proven solid.
