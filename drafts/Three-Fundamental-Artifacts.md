@@ -70,7 +70,7 @@ Less-good: Keys and button controls are mounted on the dashboard which are used 
 **Note:** I like to include a **so that** phrase in each of my requirements and acceptance criteria because I feel that phrase is key to the product manager's responsibility to connect the "what" to the "why." If you want to deep dive on story writing, check out the [Mike Cohn's article on user stories][user-stories].
 
 ## Epics and User Stories
-If you do the PRD right, then writing the epics and stories should be a mature of copy and paste.
+If you do the PRD right, then writing the epics and stories should be a matter of copy and paste.
 
 I know all of this process must seem awfully waterfall. In some ways it is, in that you need time to build a strong case (employing a variety of artifacts) to get the support you need to commit product development to a significant project. It’s also agile, however, in that you are doing all the ground to work gather feedback and fail fast. By treating your artifacts as experiments, you are creating the credibility you need in order to build confidence that the team is doing valuable work.
 
