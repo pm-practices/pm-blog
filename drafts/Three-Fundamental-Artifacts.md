@@ -27,15 +27,15 @@ This is an optional step, but I find myself often reaching for this tool as a wa
 
 Audiences: Practically everybody!
 
-Plenty has been written about [Product][introverted] [Requirements][atlassian] [Documents][reforge]. When I worked with Agile/XP engineering teams, I abhorred PRDs. As I’ve gained more experience I’ve come to appreciate them, and now _feel that they are the most effective artifact a product manager can produce_. Regardless of the other steps in the process, if a product manager writes an excellent PRD, everything else becomes a lot easier. That’s because the PRD is the one place where a product manager summarizes nearly all of their daily activities. At a high level, it is the master plan of what the team is actually going to do to affect an outcome.
+Plenty has been written about [Product][introverted] [Requirements][atlassian] [Documents][reforge]. When I worked with Agile/XP engineering teams, I abhorred PRDs. As I’ve gained more experience I’ve come to appreciate them, and now _feel that they are the most effective artifact a product manager can produce_. Regardless of the other steps in the process, if a product manager focuses on writing an excellent PRD, everything else becomes a lot easier. The PRD is the one place where a product manager summarizes nearly all of their daily activities. It is the master plan of what the team is actually going to do to affect an outcome.
 
-The PRD is a complicated document. If you've taken the time to write a One Pager and a Feature Narrative, you won't have to work as hard, because a lot of the content can be copied and pasted from those previous documents. The remaining work of the PRD will be to connect the workflows from the Feature Narrative to phases, and to define the requirements and acceptance criteria to ensure success.
+The PRD is a long, complicated document. If you've taken the time to write a One Pager and a Feature Narrative you won't have to work as hard, because a lot of the content can be copied and pasted from those previous documents. The remaining work of the PRD will be to connect the workflows from the Feature Narrative to phases, and to define the requirements and acceptance criteria for each phase.
+
+The PRD is the final document of each quarterly planning cycle. A critical aspect of the PRD phase is that there must be a mandatory approval step, represented by the red dot in the diagram. I prefer this approval in writing, rather than verbal during a meeting. The point of the PRD is to drive alignment, so the most durable aspect is that there was a point in time when every stakeholder function agreed on product direction.
+
+The moment the PRD is approved it starts to decay because it gets sent to product development team for implementation. As soon as that happens, the Source of Truth is the epics and stories, because everything starts to change the moment you put pen to paper. You don't have to go back and update the PRD every time the team makes a decision, but it's best to make sure that epics and stories are updated, even if you have to add a story to document the change.
 
 For a deep-dive into the structure of a Product Requirements Document, review my [PRD template][prd-template] on Google Docs.
-
-The PRD is the final document that happens during each quarterly planning cycle. A critical aspect of the PRD phase is that there must be a mandatory approval step, represented by the red dot in the diagram. I prefer this approval is in writing, rather than during a meeting. The point of the PRD is to drive alignment, so the most durable aspect is that there was a point in time when every stakeholder function agreed on product direction.
-
-The moment the PRD is approved, it starts to decay, because it gets sent to product development team for implementation. As soon as that happens, the Source of Truth is the epics and the stories, because everything starts to change the moment you put pen to paper. You don't have to go back and update the PRD every time the team makes a decision, but it's best to make sure that epics and stories are updated, even if you have to add a story to document the change.
 
 ### Requirements and Acceptance Criteria
 
