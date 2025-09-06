@@ -49,40 +49,45 @@ This next roadmap format is a really important tool to communicate, as a result 
 
 I've used a Kanban-style to show this, both because it prevents people from asking for details many releases into the future (I can't predict that) and the simple Trello-style UX allows me to move cards around very easily. This representation has been a very powerful negotiation tool, imagine this scenario:
 
-    I get a call from Richard, who is a Sales exec who is responsible the entire Northeast region. He's angry with me because I haven't prioritized Kevin's ask, and Kevin's on his team. Kevin has been complaining to Richard that the product team is blocking his big healthcare deal, and Richard wants to know why I'm not showing his team the love. "Let me quickly screenshare our planning roadmap," and I show him three major things all in one screen: Things we haven't sent for development yet, things that the product team is working on right now, or has released recently, and importantly, a reminder of the things we've shipped recently. By moving the cards around in real time with Richard, "OK, if I pop Kevin's ask into Ready for Implementation, making sure that the team will work on that next, then I'll have to pull something back to Scoping, and that will have to wait for the next release. Which of these things do you think is worth postponing in order to get Kevin's feature out ASAP?"
+> I get a call from Richard, who is a Sales exec who is responsible the entire Northeast region. He's angry with me because I haven't prioritized Kevin's ask, and Kevin's on his team. Kevin has been complaining to Richard that the product team is blocking his big healthcare deal, and Richard wants to know why I'm not showing his team the love. "Let me quickly screenshare our planning roadmap," and I show him three major things all in one screen: Things we haven't sent for development yet, things that the product team is working on right now, or has released recently, and importantly, a reminder of the things we've shipped recently. By moving the cards around in real time with Richard, "OK, if I pop Kevin's ask into Ready for Implementation, making sure that the team will work on that next, then I'll have to pull something back to Scoping, and that will have to wait for the next release. Which of these things do you think is worth postponing in order to get Kevin's feature out ASAP?"
     
 Nine times out of ten, Richard sees that we've done a good job of prioritizing, and that if we shuffle the order, it'll cost his greater team. On that last count, where Richard cares about Kevin and only Kevin, I can offer to escalate, "Kevin's asking us to give up a lot of opportunity. We should talk with leadership if this trade-off is really worthwhile." I can usually rely on my boss to be firm with a hothead, but you know, sometimes that healthcare deal really is strategic, and by escalating, we get permission to set aside our standard prioritization. By getting that mandate from leadership, we give the team something to rally around, "Let's go win that healthcare deal!"
 
 ```mermaid
 kanban
-  col0[PM Researching]
+  col0[Icebox]
+    lasers[Add laser beams]
+    sharks[Add shark tank]
+    sub[Submarine mode]
+  col1[PM Researching]
     backup[Second time machine option in case of primary failure]
     guitar[Marty McFly guitar storage]
     amp[Optional plug-in for electric guitar input]
-  col1[Scoping for Release]
+  col2[Scoping for Release]
     controls[Improve time-and-date settings controls]
     fire[Time machine should not leave tracks of flames]
-  col2[Ready for Implementation]
+  col3[Ready for Implementation]
     headlights[Functional headlights for nighttime time travel]
-  col3[In Development]
+  col4[In Development]
     train[Time machine should connect to train in case of engine damage]
     windmill[Optional cable to connect to windmill for lightning strike initiation]
-  col4[Current Release]
+  col5[Current GA Release]
     color[Time machine color configurable]
     tires[Introduce whitewall tire option]
-  col5[Last Release]
+  col6[Last Release]
     fly[Time machine should fly rather than drive]
     fusion[Time machine should use any kind of fuel, ie banana peels & beer]
-  col6[First Release]
+  col7[First Release]
     flux[Flux Capacitor]
     plutonium[Plutonium storage]
     car[Time travel components should be integrated into a car]
 ```
+- Icebox: A jumble of ideas, spanning good to terrible, that for various reasons, are not an organizational priority. This column is valuable because everyone's idea deserves to be heard, and they should know where they stand in the overall process. If they feel that their idea deserves more attention, they have an object they can point to, with some light metadata, like how long the object has languished in the icebox. This demonstrates that ideas are considered and prioritized according to the goals of the organization. If the goals change, we're always happy to re-prioritize. But if the goals haven't changed, at least nobody can claim that you've been burying, or refusing to consider their revolutionary ideas.
 - PM Researching: These are ideas that have come to us from all over, and we've accepted them as possible good ideas to include in the product, but either we don't know how, or haven't chosen to prioritze them yet. This list is in semi-priority order - don't put too much effort into A above B, just enough to give some order to the list. This is usually a pretty long list.
-- Scoping for Release: The PMs have decided that an idea should be included in a release, but it's not ready yet. First we have to do research, decide on workflows, get feedback and approvals. etc. (See [Three-Fundamental-Artifacts][three-artifacts] for those steps.) By being in this colum, we're messaging to stakeholders, "this is important, we're putting time into the design, and it will appear in a coming release," without commiting us to a specific release.
-- Ready for Implementation: The product and design team have done our job, this idea is now ready for final approval and will be picked up by the product development team for implementation "soon," again, without committing us to a specific release. If there's three quarters worth of ideas that are ready for implementation, then the stack will get shipped over three different releases. Beacuse of this, this list should be in strictly priority order. Whatever's at the top of the list is definitely going into the next release. The second item maybe, the third item, not so sure, and so on.
-- In Development: The product development team has accepted the design, and is in active implementation. All of the artifacts which describe this work should be available to stakeholders - the PRD, the epics, the stories, whatever you have, make it clearly visible. This is your last chance to get validation that the team is doing this in a way which will be used by customers - get all the reassurance you can.
-- Current Release, Last Release, N-1, N-2, etc.: I find it really helpful to show what we have shipped so far. Without this, it's hard to demonstrate momentum (or lack thereof). I really like to show at a high level, "OK, I know you're excited for your pet feature, but look at all the value the team has shipped! You know this team is reliable - if your idea is priortized here, you know it'll ship soon." Momentum builds confidence - make sure to demonstrate that momentum and get your team the recognition they deserve. Conversely, if you've never shipped anything yet, this is a great place to show people how risky things are, "This proejct is still in its early phases; we need to focus strictly on the most fundamental things, and make sure we build a good rhythm before we get excited about a thousand knobs and buttons. I need to keep the team focused on winning those first anchor customers; for that reason, I really need to keep your idea in the backlog."
+- Scoping for Release: The PMs have decided that an idea should be included in a release, but it's not ready yet. First, we expand the scope of effort to include the balanced leadership team (not just the PMs). From here, we have to do research, decide on workflows, get feedback and approvals. etc. (See [Three-Fundamental-Artifacts][three-artifacts] for those steps.) By being in this colum, we're messaging to stakeholders, "this is important, we're putting time into the design, and it will appear in a coming release," without commiting us to a time line or specific release.
+- Ready for Implementation: The balanced leadership team has done our job, this idea is now ready for final approval and will be picked up by the product development team for implementation "soon," again, without committing the team to a specific release. If there's three quarters worth of ideas that are ready for implementation, then the stack will get shipped over three different releases. Beacuse of this, this list should be in strictly priority order. Whatever's at the top of the list is definitely going into the next release. The second item maybe, the third item, not so sure, and so on.
+- In Development: The product development team has accepted the design, and is in active implementation. All of the artifacts which describe this work should be available to stakeholders - the PRD, the epics, the stories. Whatever you have, make it clearly visible. This is your last chance to get validation that the team is doing this in a way which will be used by customers - get all the reassurance you can.
+- Current Release, Last Release, N-1, N-2, etc.: I find it helpful to share the context of what we have shipped so far. Without this, it's hard to demonstrate momentum. I really like to show at a high level, "OK, I know you're excited for your pet feature, but look at all the value the team has shipped! You know this team is reliable - if your idea is priortized here, you know it'll ship soon." Momentum builds confidence - make sure to demonstrate that momentum and get your team the recognition they deserve. Conversely, if you've never shipped anything yet, this is a great place to show people how risky things are, "This proejct is still in its early phases; we need to focus strictly on the most fundamental things, and make sure we build a good rhythm before we get excited about a thousand knobs and buttons. I need to keep the team focused on winning those first anchor customers; for that reason, I really need to keep your idea in the backlog."
 
 ## Published Roadmap
 
