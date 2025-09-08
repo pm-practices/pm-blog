@@ -95,7 +95,13 @@ Tool: Slide deck
 
 The first two are your planning tools. You use them with your teams and your stakeholders to set plans in motion. They've got a ton of confidential information in them, account for all sorts of internal dysfunction, etc.
 
-Now go make a slide!
+There lots of resources on [outcome oriented roadmaps][outcome-roadmaps]. It took me a long time to understand, but I agree with this approach now. Nobody cares about features at that level. If you're frustrated by that, because either you don't know the outcome that a feature enables, or you think the feature enables, "so many outcomes it feels wrong to narrow it down to just one or two," then please consider my argument.
+
+Most users won't care about your product as much as you do. They probably wish they didn't need it at all. They are willing spend money, or in other ways invest their time in your product beacause it's better than choosing to solve their problem on their own. Whatever that problem is, they only care about the outcome that it provides. Since we spend every day with our product, product managers tend to have a lot of pride in what the team has built, "It slices, it dices, it even makes julienne fries!"
+
+When we communicate our roadmap externally, it's important, in as few words as possible, to describe what the users will get out of the product, rather than describe what the product is. If you are having trouble narrowing it down, think about one or two use cases that people are doing now, or short of that, what your anchor customers plan to do with the feature. It's ok if you don't explain all of the possibilities of a feature in a roadmap. People will figure it out. For now, just make sure that people get a gist for what the feature is _for_. They'll figure out the rest later, or you can fill in the gaps later with continued product marketing.
+
+For inspiration, look no further than the [Jordan Belfort's explanation of how to sell a pen][sell-me-this-pen] "now, the pen is a like a euphism for any product." OK, go make a slide!
 
 # One More Thing - A Note About Prioritization
 Were I king of all product managers, I would make the following phrases illegal, “Customer Requirement,” “Must Have,” and P1 through P4. All of these things are sort of a cop-out for Product Management to shovel scope onto the product development team without regard to capacity.
@@ -105,3 +111,5 @@ Instead, I wish product management continually provided a list, “Here is a pri
 It is a fundamental requirement of the product management function to provide a list of prioritized needs. Product management isn’t responsible for velocity, though. The only thing we are responsible for is analyzing the **impact** of the schedule, and escalating to leadership. “We are tracking to deliver X, Y, and Z. Without I, J, and K, we won’t be able to make these sales targets. If you want to continue to grow at the desired rate, work with the product development team to figure out how to increase velocity.”
 
 [three-artifacts]:	Three-Fundamental-Artifacts.md "Three Fundamental Artifacts"
+[outcome-roadmaps]: https://productschool.com/blog/product-strategy/outcome-based-roadmap
+[sell-me-this-pen]:  https://youtu.be/iawLbvCyGKw?si=9sWuQvYdIxexLnxR
