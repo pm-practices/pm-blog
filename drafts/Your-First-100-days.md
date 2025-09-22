@@ -1,4 +1,5 @@
-Your-First-100-days
+# Your-First-100-days
+
 Congratulations! You’ve landed a job as a product manager. Now, you have a few days to prepare to show up, make a good first impression, integrate with a bunch of strangers, and somehow, establish yourself as a leader. In my experience, most of the time, the people you’re about to work with haven’t worked with good product managers and aren’t certain what a product manager is supposed to do.
 
 I am sure there are many ways to approach this situation. I’ve tried several, some have worked well, many have worked poorly. I’m convinced there’s one approach that works really well. If you give this a try, let me know how it goes.
