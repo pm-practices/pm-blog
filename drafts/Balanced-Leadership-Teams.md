@@ -5,7 +5,7 @@ You’ve carved out your role as product manager, and now you’re feeling overw
 ## tl;dr
 When presenting product plans to leaders, employees, and even externally, the plans are owned by a group of people, typically the functional leaders, rather than the product manager’s alone. That’s it, that’s the tweet.
 
-> Long ago, a new Engineering Director was assigned to my team to relieve the current director who had too many responsibilities. A few weeks later, I went to edit the team’s quarterly review document, and I found my new peer had already started making changes. I was alarmed, this was my job, my doc! Why was he making changes? Did he not trust me, did he not appreciate the role of product manager? Didn’t he understand that he was going to make me look bad? “No,” he said, “You’ve been solo for too long. You’ve forgotten that you’re part of a team. You don’t need to do this on your own, you have help now. We are a team!” I will never forget the relief I felt on that day.
+> Long ago, a new Engineering Director was assigned to my team to relieve the current director who had too many responsibilities. A few weeks later, I went to edit the team’s quarterly review document, and I found my new peer had already started making changes. I was alarmed, this was my job, my doc! Why was he making changes? Did he not trust me, did he not appreciate the role of product manager? Didn’t he understand that he was going to make me look bad? “No,” he said, “You’ve been solo for too long. You don’t need to do this on your own, you have help now. We are a team!” I will never forget the relief I felt on that day.
 
 ## Let’s get promoted together
 
