@@ -3,11 +3,11 @@ Balanced-Leadership-Teams.md
 You’ve carved out your role as product manager, and now you’re feeling overwhelmed and under-appreciated? Struggling with decision fatigue? Unable to deliver what’s expected of you? Maybe the problem isn’t you. Maybe you need partners! A change in how the organization works could get you off the struggle bus and back to being the best product manager you can be. Read on to find out how.
 
 ## tl;dr
-When presenting product plans to leaders, employees, and even externally, the plans are owned by a group of people, typically the functional leaders, rather than the product manager’s alone. That’s it, that’s the tweet.
-
-> Long ago, a new Engineering Director was assigned to my team to relieve the current director who had too many responsibilities. A few weeks later, I went to edit the team’s quarterly review document, and I found my new peer had already started making changes. I was alarmed, this was my job, my doc! Why was he making changes? Did he not trust me, did he not appreciate the role of product manager? Didn’t he understand that he was going to make me look bad? “No,” he said, “You’ve been solo for too long. You don’t need to do this on your own, you have help now. We are a team!” I will never forget the relief I felt on that day.
+When presenting product plans to leaders, employees, and even externally, the plans are owned by a group of people, typically the functional leaders, rather than the product managers alone. Product development is a shared responsibility. That’s it, that’s the tweet.
 
 ## Let’s get promoted together
+
+> Long ago, a new Engineering Director was assigned to my team to relieve the current director who had too many responsibilities. A few weeks later, I went to edit the team’s quarterly review document, and I found my new peer had already started making changes. I was alarmed, this was my job, my doc! Why was he making changes? Did he not trust me, did he not appreciate the role of product manager? Didn’t he understand that he was going to make me look bad? “No,” he said, “You’ve been solo for too long. You don’t need to do this on your own, you have help now. We are a team!”I will never forget the relief I felt on that day. From then on, we presented the status of the product together, and it wasn’t all-eyes-on-me.
 
 How many times have you heard this phrase, “The product manager is the general manager (GM) or chief executive (CEO) of the product. It’s their vision, their responsibility. They make all the decisions and direct all activities. They do what it takes to make sure the product is successful.” I don’t feel this is a good description of the role of a product manager. For more, read [product-manager-identity.md][1] to review a more nuanced opinion of what a product manager does.
 
